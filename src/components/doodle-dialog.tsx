@@ -93,6 +93,7 @@ export function DoodleDialog({ onDoodleComplete }: DoodleDialogProps) {
           />
           <div className="flex items-center gap-4">
             <Label htmlFor="color">Color:</Label>
+            happy new year
             <Input
               id="color"
               type="color"
